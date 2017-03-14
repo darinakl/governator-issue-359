@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.governator:governator:1.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.governator/governator/1.12.0/8cd30f986b71b70131b51eecd9f996cdbe8d3845/governator-1.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.governator/governator/1.12.0/409c2aeb575b4a5420adb4e4bd602502841263f8/governator-1.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
